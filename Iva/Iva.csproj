@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>Iva</AssemblyName>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+    <Authors>Diego Ponce de León</Authors>
+    <PackageId>net.xleon.iva</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Title>IVA tool</Title>
+    <Description>Calculador de IVA e IRPF</Description>
+    <PackageTags>iva irpf</PackageTags>
+    <PackAsTool>true</PackAsTool>
+  </PropertyGroup>
+</Project>
