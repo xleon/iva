@@ -3,7 +3,7 @@
  
 # Calculador de IVA / IRPF
 
-Pequeño script creado para probar las nuevas "global tools" de dotnet.
+Línea de comandos para calcular IVA / IRPF a partir de la base imponible.
 
 # Instalación
 
