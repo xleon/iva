@@ -1,9 +1,11 @@
-Calculador de IVA / IRPF
----
+[![NuGet](https://img.shields.io/nuget/v/net.xleon.iva.svg?style=for-the-badge)](https://www.nuget.org/packages/net.xleon.iva/) 
+[![NuGet](https://img.shields.io/nuget/dt/net.xleon.iva.svg?style=for-the-badge)](https://www.nuget.org/packages/net.xleon.iva/)
+ 
+# Calculador de IVA / IRPF
 
 Pequeño script creado para probar las nuevas "global tools" de dotnet.
 
-## Instalación
+# Instalación
 
 Asegúrate de tener [dotnet core](https://dotnet.microsoft.com/download) instalado
 
@@ -13,7 +15,7 @@ Para instalar el programa de forma global en tu máquina, solo hay que ejecutar 
  dotnet tool install -g net.xleon.iva
  ```  
 
-## Uso
+# Uso
 
 Simple:
 

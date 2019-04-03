@@ -16,6 +16,7 @@
     <Description>Calculador de IVA e IRPF por línea de comandos</Description>
     <PackageProjectUrl>https://github.com/xleon/iva</PackageProjectUrl>
     <RepositoryUrl>https://github.com/xleon/iva</RepositoryUrl>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
+    <PackageReleaseNotes>El comando ahora en minúsculas</PackageReleaseNotes>
   </PropertyGroup>
 </Project>
