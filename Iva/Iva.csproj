@@ -3,15 +3,19 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <AssemblyName>Iva</AssemblyName>
+    <PackageOutputPath>./nupkg</PackageOutputPath>
   </PropertyGroup>
   
   <PropertyGroup>
-    <Authors>Diego Ponce de León</Authors>
     <PackageId>net.xleon.iva</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
-    <Title>IVA tool</Title>
-    <Description>Calculador de IVA e IRPF</Description>
-    <PackageTags>iva irpf</PackageTags>
     <PackAsTool>true</PackAsTool>
+    <ToolCommandName>iva</ToolCommandName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>Diego Ponce de León</Authors>
+    <Description>Calculador de IVA e IRPF por línea de comandos</Description>
+    <PackageProjectUrl>https://github.com/xleon/iva</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/xleon/iva</RepositoryUrl>
+    <PackageVersion>1.0.0</PackageVersion>
   </PropertyGroup>
 </Project>
